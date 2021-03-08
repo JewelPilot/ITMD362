@@ -43,12 +43,12 @@ li {
   }
 }
 
-#wrap input[type="fn"] {
+#wrap input[name="first-name"] {
   border-color: transparent;
   background-color: #383838;
 }
 
-#wrap input[type="ln"] {
+#wrap input[name="last-name"] {
   border-color: transparent;
   background-color: #484848;
 }
@@ -58,12 +58,12 @@ li {
   background-color: #585858;
 }
 
-#wrap input[type="pn"] {
+#wrap input[type="number"] {
   border-color: transparent;
   background-color: #686868;
 }
 
-#wrap input[type="dob"] {
+#wrap input[type="date"] {
   border-color: transparent;
   background-color: #787878;
 }
