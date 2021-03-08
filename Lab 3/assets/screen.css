@@ -9,6 +9,7 @@ html {
   padding: 1.55555em;
   background: #808080;
   text-align: center;
+  justify-content: center;
 }
 
 h1 {
