@@ -41,9 +41,29 @@ li {
   }
 }
 
-#wrap input[type="text"] {
+#wrap input[type="fn"] {
   border-color: transparent;
-  background-color: #808080;
+  background-color: #383838;
+}
+
+#wrap input[type="ln"] {
+  border-color: transparent;
+  background-color: #484848;
+}
+
+#wrap input[type="email"] {
+  border-color: transparent;
+  background-color: #585858;
+}
+
+#wrap input[type="pn"] {
+  border-color: transparent;
+  background-color: #686868;
+}
+
+#wrap input[type="dob"] {
+  border-color: transparent;
+  background-color: #787878;
 }
 
 
