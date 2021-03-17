@@ -2,6 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Shippori+Mincho+B1:wght@500&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Caveat&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Caveat&family=Dosis:wght@500&display=swap");
 
 html {
   font-family: Merriweather, "Hoefler Text", Georgia, "Times New Roman", Times, Roman, serif;
@@ -14,7 +15,7 @@ html {
 }
 
 h1 {
-  font-family: 'Noto Sans JP', sans-serif;
+  font-family: 'Caveat', cursive;
   font-size: 1.333333em;
   font-weight: bold;
   padding-bottom: 1em;
@@ -22,6 +23,7 @@ h1 {
 
 li {
   padding-bottom: 1em;
+  font-family: 'Dosis', sans-serif;
 }
 
 @media screen and (min-width: 12.6em) {
