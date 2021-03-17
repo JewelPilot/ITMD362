@@ -48,27 +48,27 @@ li {
 
 #wrap input[name="first_name"] {
   border-color: transparent;
-  background-color: #383838;
+  background-color: #edeff4;
 }
 
 #wrap input[name="last_name"] {
   border-color: transparent;
-  background-color: #484848;
+  background-color: #edeff4;
 }
 
 #wrap input[type="email"] {
   border-color: transparent;
-  background-color: #585858;
+  background-color: #edeff4;
 }
 
 #wrap input[type="number"] {
   border-color: transparent;
-  background-color: #686868;
+  background-color: #edeff4;
 }
 
 #wrap input[type="date"] {
   border-color: transparent;
-  background-color: #787878;
+  background-color: #edeff4;
 }
 
 
